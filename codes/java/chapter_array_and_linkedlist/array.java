@@ -103,3 +103,11 @@ public class array {
         System.out.println("在 nums 中查找元素 3 ，得到索引 = " + index);
     }
 }
+
+class testArray{
+    public static void main(String[] args) {
+        array array1=new array();
+        array1.toString();
+        System.out.println(array1.toString());
+    }
+}
